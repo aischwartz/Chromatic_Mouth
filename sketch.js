@@ -1,7 +1,7 @@
 
 // h 0-360, s 0-100, b 0-100
 let mic;
-// let randomColor;
+
 // let r, g, b;
 // let volBig;
 let clicked = false;
